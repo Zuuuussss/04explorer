@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Um projeto feito para estudos sobre a responsividade entre mobile e desktop.
 
-- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/Responsividade/)
+- [Acesse o projeto finalizado, online](https://zuuuussss.github.io/04explorer/)
 
 Esse projeto está sob a licença MIT.
 
